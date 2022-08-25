@@ -2,7 +2,7 @@
 <h3 align="center">17 y.o Developer </h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=xrenata&label=Profile%20views&color=80ceff&style=flat-square" alt="xrenata" /> 
+  <img src="https://komarev.com/ghpvc/?username=utkanarikan&label=Profile%20views&color=80ceff&style=flat-square" alt="utkanarikan" /> 
 
 </p>
 <div align="center">
